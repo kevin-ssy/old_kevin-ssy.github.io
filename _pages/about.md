@@ -86,6 +86,7 @@ You can find the full publication list [here](https://scholar.google.com.au/cita
 
 ## Academic Service
 Conference Reviewer: CVPR 2019, ICCV 2019
+Journal Reviewer: IJCV
 
 ## Contact
 Personal Email: [kevin.sysun@gmail.com](mailto:kevin.sysun@gmail.com); [kevinssy@qq.com](mailto:kevinssy@qq.com)
