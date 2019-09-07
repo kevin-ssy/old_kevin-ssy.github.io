@@ -40,6 +40,14 @@ You can find the full publication list [here](https://scholar.google.com.au/cita
 <table width="100%">
 	<!-- publication 1 -->
 	{%  include publication.html 
+		url="#"
+		img_path="mmmot.jpg"
+		title="Robust Multi-Modality Multi-Object Tracking" 
+		author_list="Wenwei Zhang, Hui Zhou, <b><u>Shuyang Sun</u></b>, Zhe Wang, Jianping Shi, Chen Change Loy"
+		published_in="ICCV 2019"
+	%}	
+	<!-- publication 2 -->
+	{%  include publication.html 
 		url="http://arxiv.org/pdf/1901.07518v1.pdf"
 		img_path="htc.png"
 		title="Hybrid Task Cascade for Instance Segmentation" 
@@ -47,7 +55,7 @@ You can find the full publication list [here](https://scholar.google.com.au/cita
 		published_in="CVPR 2019"
 		code_url="https://github.com/open-mmlab/mmdetection"
 	%}	
-	<!-- publication 2 -->
+	<!-- publication 3 -->
 	{%  include publication.html 
 		url="http://arxiv.org/pdf/1901.03495v1.pdf"
 		img_path="fish.png"
@@ -56,7 +64,7 @@ You can find the full publication list [here](https://scholar.google.com.au/cita
 		published_in="NeurIPS 2018"
 		code_url="https://github.com/kevin-ssy/FishNet"
 	%}
-	<!-- publication 3 -->
+	<!-- publication 4 -->
 	{%  include publication.html 
 		url="https://arxiv.org/pdf/1711.11152v1.pdf"
 		img_path="OFF.jpg"
@@ -66,7 +74,7 @@ You can find the full publication list [here](https://scholar.google.com.au/cita
 		code_url="https://github.com/kevin-ssy/Optical-Flow-Guided-Feature"
 		blog_post="https://kevin-ssy.github.io/off/"
 	%}
-	<!-- publication 4 -->
+	<!-- publication 5 -->
 	{%  include publication.html 
 		url="http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Spindle_Net_Person_CVPR_2017_paper.pdf" 
 		img_path="spindlenet.png" 
@@ -78,6 +86,8 @@ You can find the full publication list [here](https://scholar.google.com.au/cita
 
 ## Academic Service
 Conference Reviewer: CVPR 2019, ICCV 2019
+
+Journal Reviewer: IJCV
 
 ## Contact
 Personal Email: [kevin.sysun@gmail.com](mailto:kevin.sysun@gmail.com); [kevinssy@qq.com](mailto:kevinssy@qq.com)
