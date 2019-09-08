@@ -26,6 +26,7 @@ layout: compress
   <body>
   	{% include browser-upgrade.html %}
     {% include masthead.html %}
+    {% include sidebar.html %}
 
     {{ content }}
     <div id="map"></div>
@@ -68,7 +69,6 @@ layout: compress
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUSvjCsG3VhYrd-fjUAZ0EtDIyGyRFGiw&callback=initMap">
     </script>
 
-    </script>
 
     <div class="page__footer">
       <footer>
@@ -79,9 +79,5 @@ layout: compress
 
     {% include scripts.html %}
 
-    
-	<div id="main" role="main">
-	  {% include sidebar.html %}
-	</div>
   </body>
 </html>
