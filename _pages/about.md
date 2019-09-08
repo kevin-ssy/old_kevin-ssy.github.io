@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming DPhil(PhD) student of the [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/), [University of Oxford](http://www.ox.ac.uk/), supervised by Professor [Philip Torr](http://www.robots.ox.ac.uk/~phst/) and Professor [Victor Prisacariu](http://www.robots.ox.ac.uk/~victor/).
+I am an incoming DPhil (PhD) student of the [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/), [University of Oxford](http://www.ox.ac.uk/), supervised by Professor [Philip Torr](http://www.robots.ox.ac.uk/~phst/) and Professor [Victor Prisacariu](http://www.robots.ox.ac.uk/~victor/).
 I received my M.Phil. degree from the [the University of Sydney](https://sydney.edu.au/), where I was with the [SIGMA Lab](https://sigmalab-usyd.github.io/),
  [School of Electrical & Information Engineering, ](https://sydney.edu.au/engineering/about/school-of-electrical-and-information-engineering.html) and was supervised by Professor [Wanli Ouyang](https://wlouyang.github.io). 
  I also collaborated closely with [Jianping Shi](https://shijianping.me/) and [Zhanghui Kuang](http://jeffreykuang.github.io/) at [SenseTime Research](https://www.sensetime.com/en/).
@@ -86,7 +86,7 @@ You can find the full publication list [here](https://scholar.google.com.au/cita
 </table>
 
 ## Academic Service
-Conference Reviewer: CVPR 2019, ICCV 2019
+Conference Reviewer: CVPR 2019, ICCV 2019, AAAI 2020
 
 Journal Reviewer: IJCV
 
