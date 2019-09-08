@@ -1,16 +1,17 @@
 ---
 permalink: /
 title: "Shuyang Sun, 孙书洋"
-excerpt: "Shuyang Sun USYD University of Sydney Kevin SenseTime kevinssy"
+excerpt: "Shuyang Sun Oxford USYD University of Sydney Kevin SenseTime kevinssy"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an incoming DPhil student of the [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/), [University of Oxford](http://www.ox.ac.uk/), supervised by Professor [Philip Torr](http://www.robots.ox.ac.uk/~phst/) and Professor [Victor Prisacariu](http://www.robots.ox.ac.uk/~victor/).
+I am an incoming DPhil(PhD) student of the [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/), [University of Oxford](http://www.ox.ac.uk/), supervised by Professor [Philip Torr](http://www.robots.ox.ac.uk/~phst/) and Professor [Victor Prisacariu](http://www.robots.ox.ac.uk/~victor/).
 I received my M.Phil. degree from the [the University of Sydney](https://sydney.edu.au/), where I was with the [SIGMA Lab](https://sigmalab-usyd.github.io/),
  [School of Electrical & Information Engineering, ](https://sydney.edu.au/engineering/about/school-of-electrical-and-information-engineering.html) and was supervised by Professor [Wanli Ouyang](https://wlouyang.github.io). 
+ I also collaborated closely with [Jianping Shi](https://shijianping.me/) and [Zhanghui Kuang](http://jeffreykuang.github.io/) at [SenseTime Research](https://www.sensetime.com/en/).
 I received a B.Eng. degree in 2016 in Software Engineering from [Wuhan University](http://www.whu.edu.cn/), China. 
 My research interest is to develop robust and intelligent algorithms related to computer vision and deep learning.
 
