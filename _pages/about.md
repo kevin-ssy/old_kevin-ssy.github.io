@@ -87,7 +87,7 @@ You can find the full publication list [here](https://scholar.google.com.au/cita
 </table>
 
 ## Academic Service
-Conference Reviewer: CVPR 2019, ICCV 2019, AAAI 2020
+Conference Reviewer: CVPR 2019, ICCV 2019, AAAI 2020, CVPR 2020, IJCAI 2020
 
 Journal Reviewer: IJCV
 
