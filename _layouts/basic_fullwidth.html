@@ -1,0 +1,83 @@
+---
+layout: compress
+---
+
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    {% include head.html %}
+    {% include head/custom.html %}
+    <link rel="stylesheet" href="assets/css/zhihu.css">
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+  	{% include browser-upgrade.html %}
+  	{% include masthead.html %}  
+    <div id="main" role="main">    	
+    	{% include sidebar.html %}
+    	{{ content }}
+    	<div id="map">
+	    	<script>
+		      function initMap() {
+
+		        var map = new google.maps.Map(document.getElementById('map'), {
+		          zoom: 2,
+		          center: {lat: 0, lng: 150}
+		        });
+
+		        var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
+
+		        var markers = locations.map(function(location, i) {
+		          return new google.maps.Marker({
+		            position: location,
+		            label: labels[i % labels.length]
+		          });
+		        });
+
+		        var markerCluster = new MarkerClusterer(map, markers,
+		            {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+		      }
+		      var locations = [
+		        {lat: 30.568028, lng: 114.295889},
+		        {lat: 39.905557, lng: 116.398697},
+		        {lat: 40.952973, lng: 117.963253},
+		        {lat: 22.547040, lng: 114.066226},
+		        {lat: 22.336913, lng: 114.171633},
+		        {lat: 30.279815, lng: 120.151330},
+		        {lat: -31.958838, lng: 115.853938},
+		        {lat: -33.871803, lng: 151.202950}
+		      ]
+	    	</script>
+		    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
+		    </script>
+		    <script async defer
+		    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUSvjCsG3VhYrd-fjUAZ0EtDIyGyRFGiw&callback=initMap">
+		    </script>
+    	</div>
+    </div>
+    
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
