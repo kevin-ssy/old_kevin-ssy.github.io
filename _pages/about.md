@@ -9,7 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-<div>
 I am a first-year DPhil (PhD) student of the [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/), [University of Oxford](http://www.ox.ac.uk/), supervised by Professor [Philip Torr](http://www.robots.ox.ac.uk/~phst/) and Professor [Victor Prisacariu](http://www.robots.ox.ac.uk/~victor/).
 I received my M.Phil. degree from the [the University of Sydney](https://sydney.edu.au/), where I was with the [SIGMA Lab](https://sigmalab-usyd.github.io/),
  [School of Electrical & Information Engineering, ](https://sydney.edu.au/engineering/about/school-of-electrical-and-information-engineering.html) and was supervised by Professor [Wanli Ouyang](https://wlouyang.github.io). 
@@ -97,4 +96,3 @@ Personal Email: [kevin.sysun@gmail.com](mailto:kevin.sysun@gmail.com); [kevinssy
 
 <!-- Univ. Email: [shuyang.sun@sydney.edu.au](mailto:shuyang.sun@sydney.edu.au)
  -->
-</div>
