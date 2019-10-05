@@ -14,7 +14,7 @@ I received my M.Phil. degree from the [the University of Sydney](https://sydney.
  [School of Electrical & Information Engineering, ](https://sydney.edu.au/engineering/about/school-of-electrical-and-information-engineering.html) and was supervised by Professor [Wanli Ouyang](https://wlouyang.github.io). 
  I also collaborated closely with Dr. [Jianping Shi](https://shijianping.me/) and Dr. [Zhanghui Kuang](http://jeffreykuang.github.io/) at [SenseTime Research](https://www.sensetime.com/en/).
 I received a B.Eng. degree in 2016 in Software Engineering from [Wuhan University](http://www.whu.edu.cn/), China. 
-My research interest is to develop robust and intelligent algorithms related to computer vision and deep learning.
+My research interest is to develop robust and fundamental algorithms related to computer vision and deep learning.
 
 
 ## Recent News
