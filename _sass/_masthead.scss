@@ -10,6 +10,7 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  background-color: #002147;
 
   &__inner-wrap {
     @include container;
@@ -23,9 +24,11 @@
 
     nav {
       z-index: 10;
+      background-color: #002147;
     }
 
     a {
+      color: #FFF;
       text-decoration: none;
     }
   }
@@ -51,3 +54,4 @@
     font-weight: 700;
   }
 }
+

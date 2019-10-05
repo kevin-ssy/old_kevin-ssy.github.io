@@ -3,6 +3,7 @@ permalink: /
 title: "Shuyang Sun, 孙书洋"
 excerpt: "Shuyang Sun Oxford USYD University of Sydney Kevin SenseTime kevinssy"
 author_profile: true
+layout: fullwidth
 redirect_from: 
   - /about/
   - /about.html
