@@ -1,0 +1,33 @@
+---
+layout: compress
+---
+
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    {% include head.html %}
+    {% include head/custom.html %}
+    <link rel="stylesheet" href="assets/css/zhihu.css">
+
+  </head>
+  <body>
+  	{% include browser-upgrade.html %}
+  	{% include masthead.html %}  
+      <div id="main" role="main">    	
+    	   {% include sidebar.html %}
+    	   {{ content }}
+    	</div>
+    </div>
+    
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>

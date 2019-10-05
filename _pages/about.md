@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Shuyang Sun, 孙书洋"
-layout: default
+layout: fullwidth
 excerpt: "Shuyang Sun Oxford USYD University of Sydney Kevin SenseTime kevinssy"
 author_profile: true
 redirect_from: 
