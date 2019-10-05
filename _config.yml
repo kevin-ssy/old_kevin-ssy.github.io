@@ -9,8 +9,9 @@
 locale                   : "en-US"
 title                    : "Shuyang Sun"
 title_separator          : "-"
-name                     : &name "Shuyang Sun Kevin University of Sydney SenseTime 孙书洋"
-description              : &description "I am currently a Master of Philosophy (MPhil) student in
+name                     : &name "Shuyang Sun Kevin Oxford University of Sydney SenseTime 孙书洋"
+description              : &description "I am currently a DPhil (PhD) student of [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/), University of Oxford.
+ Previously I got my Master of Philosophy (MPhil) degree in
  [Electrical & Information Engineering, The University of Sydney](https://sydney.edu.au/engineering/about/school-of-electrical-and-information-engineering.html)
 , supervised by Professor [Wanli Ouyang](http://www.ee.cuhk.edu.hk/~wlouyang/). Before that, I worked as a full-time computer vision researcher at [SenseTime](https://www.sensetime.com/), Hong Kong.
 I received a BEng degree in 2016 in Software Engineering from Wuhan University, China."
@@ -68,7 +69,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : "Organization" # Person or Organization (defaults to Person)
-  name                   : "The University of Sydney" # If the user or organization name differs from the site's name
+  name                   : "University of Oxford" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
@@ -84,7 +85,7 @@ author:
   name             : "&nbsp;Shuyang Sun"
   avatar           : "headpic.png"
   bio              :
-  location         : "Sydney, NSW, Australia"
+  location         : "Oxford, UK"
   employer         :
   googlescholar    : "https://scholar.google.com.au/citations?user=PoAvGRMAAAAJ"
   email            :
