@@ -185,7 +185,7 @@
     text-decoration: none;
 
     &:hover {
-      color: mix(#fff, #494e52, 50%);
+      color: mix(#fff, #002147, 50%);
     }
   }
 
@@ -232,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, #494e52, 50%);
+        background: mix(#fff, #002147, 50%);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
