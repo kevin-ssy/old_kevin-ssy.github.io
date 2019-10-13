@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 I am a first-year DPhil (PhD) student of the [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/), [University of Oxford](http://www.ox.ac.uk/), supervised by Professor [Philip Torr](http://www.robots.ox.ac.uk/~phst/) and Professor [Victor Prisacariu](http://www.robots.ox.ac.uk/~victor/).
-I received my M.Phil. degree from the [the University of Sydney](https://sydney.edu.au/), where I was with the [SIGMA Lab](https://sigmalab-usyd.github.io/),
+I received my M.Phil. degree from [the University of Sydney](https://sydney.edu.au/), where I was with the [SIGMA Lab](https://sigmalab-usyd.github.io/),
  [School of Electrical & Information Engineering, ](https://sydney.edu.au/engineering/about/school-of-electrical-and-information-engineering.html) and was supervised by Professor [Wanli Ouyang](https://wlouyang.github.io). 
  I also collaborated closely with Dr. [Jianping Shi](https://shijianping.me/) and Dr. [Zhanghui Kuang](http://jeffreykuang.github.io/) at [SenseTime Research](https://www.sensetime.com/en/).
 I received a B.Eng. degree in 2016 in Software Engineering from [Wuhan University](http://www.whu.edu.cn/), China. 
