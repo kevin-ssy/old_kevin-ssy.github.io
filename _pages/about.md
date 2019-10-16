@@ -94,7 +94,6 @@ Conference Reviewer: CVPR 2019, ICCV 2019, AAAI 2020, CVPR 2020, IJCAI 2020
 Journal Reviewer: IJCV
 
 ## Contact
-Personal Email: [kevin.sysun@gmail.com](mailto:kevin.sysun@gmail.com); [kevinssy@qq.com](mailto:kevinssy@qq.com)
+Personal Email: [kevin.sysun@gmail.com](mailto:kevin.sysun@gmail.com);
 
-<!-- Univ. Email: [shuyang.sun@sydney.edu.au](mailto:shuyang.sun@sydney.edu.au)
- -->
+Univ. Email: [shuyang.sun@robots.ox.ac.uk](mailto:shuyang.sun@robots.ox.ac.uk)
