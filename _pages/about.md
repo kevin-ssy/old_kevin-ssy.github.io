@@ -96,4 +96,4 @@ Journal Reviewer: IJCV
 ## Contact
 Personal Email: [kevin.sysun@gmail.com](mailto:kevin.sysun@gmail.com);
 
-Univ. Email: [shuyang.sun@robots.ox.ac.uk](mailto:shuyang.sun@robots.ox.ac.uk)
+Univ. Email: [kevinsun@robots.ox.ac.uk](mailto:kevinsun@robots.ox.ac.uk)
