@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year DPhil (PhD) student of the [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/), [University of Oxford](http://www.ox.ac.uk/), supervised by Professor [Philip Torr](http://www.robots.ox.ac.uk/~phst/) and Professor [Victor Prisacariu](http://www.robots.ox.ac.uk/~victor/).
+I am a second-year DPhil (PhD) student of the [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/), [University of Oxford](http://www.ox.ac.uk/), supervised by Professor [Philip Torr](http://www.robots.ox.ac.uk/~phst/) and Professor [Victor Prisacariu](http://www.robots.ox.ac.uk/~victor/).
 I received my M.Phil. degree from [the University of Sydney](https://sydney.edu.au/), where I was with the [SIGMA Lab](https://sigmalab-usyd.github.io/),
  [School of Electrical & Information Engineering](https://sydney.edu.au/engineering/about/school-of-electrical-and-information-engineering.html), supervised by Professor [Wanli Ouyang](https://wlouyang.github.io). 
  I am fortunate to collaborate closely with [Vladlen Koltun](http://vladlen.info/), [Philipp Krähenbühl](https://www.philkr.net/) and [René Ranftl](https://scholar.google.com/citations?user=cwKg158AAAAJ&hl=en) at Intel ISL, [Song Bai](http://songbai.site/) at ByteDance AI Lab, [Jianping Shi](https://shijianping.me/) and [Zhanghui Kuang](http://jeffreykuang.github.io/) at [SenseTime Research](https://www.sensetime.com/en/).
@@ -59,7 +59,7 @@ You can find the full publication list [here](https://scholar.google.com.au/cita
 		url="#"
 		img_path="depla.png"
 		title="Aggregation with Feature Detectiong" 
-		author_list="Shuyang Sun, Xiaoyu Yue, Xiaojuan Qi, Wanli Ouyang, Victor Prisacariu, Philip Torr"
+		author_list="<b><u>Shuyang Sun</u></b>, Xiaoyu Yue, Xiaojuan Qi, Wanli Ouyang, Victor Prisacariu, Philip Torr"
 		published_in="ICCV 2021"
 	%}	
 	<!-- publication 3 -->
