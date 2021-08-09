@@ -10,11 +10,7 @@ locale                   : "en-US"
 title                    : "Shuyang Sun"
 title_separator          : "-"
 name                     : &name "Shuyang Sun Kevin Oxford University of Sydney SenseTime 孙书洋"
-description              : &description "I am currently a DPhil (PhD) student of [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/), University of Oxford.
- Previously I got my Master of Philosophy (MPhil) degree in
- [Electrical & Information Engineering, The University of Sydney](https://sydney.edu.au/engineering/about/school-of-electrical-and-information-engineering.html)
-, supervised by Professor [Wanli Ouyang](http://www.ee.cuhk.edu.hk/~wlouyang/). Before that, I worked as a full-time computer vision researcher at [SenseTime](https://www.sensetime.com/), Hong Kong.
-I received a BEng degree in 2016 in Software Engineering from Wuhan University, China."
+description              : &description "I am currently a DPhil (PhD) student of Torr Vision Group (TVG), University of Oxford."
 url                      : https://kevin-ssy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevin-ssy.github.io"

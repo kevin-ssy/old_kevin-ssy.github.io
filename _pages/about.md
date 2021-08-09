@@ -41,8 +41,8 @@ One paper has been accepted by CVPR 2018. (20th Feb. 2018)
 
 Our paper, [*Optical Flow Guided Feature*](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Optical_Flow_Guided_CVPR_2018_paper.pdf), has released on arXiv. (29th Nov. 2017) -->
 
-## Publication
-You can find the full publication list [here](https://scholar.google.com.au/citations?user=PoAvGRMAAAAJ).
+## Selected Publication
+You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
 
 <table width="100%">
 	<!-- publication 1 -->
