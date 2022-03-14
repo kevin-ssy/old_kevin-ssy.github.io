@@ -19,7 +19,9 @@ My current focus is on building a comprehensive visual system with an unified pe
 
 ## Recent News
 
-Two papers accepted at ICCV 2021 (22nd July 2021)
+Three papers are accepted to CVPR 2022! (13rd March 2022)
+
+Two papers are accepted to ICCV 2021! (22nd July 2021)
 
 New journey begins in Oxford. (19th Sep 2019)
 
