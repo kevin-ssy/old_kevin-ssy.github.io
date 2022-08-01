@@ -15,8 +15,8 @@ I received my M.Phil. degree from [the University of Sydney](https://sydney.edu.
  I am fortunate to collaborate closely with [Weijun Wang](https://scholar.google.com/citations?user=xUoSmEsAAAAJ&hl=en), and [Liang-Chieh Chen](http://liangchiehchen.com/) at [Google Research](https://research.google/), [Vladlen Koltun](http://vladlen.info/), [Philipp Krähenbühl](https://www.philkr.net/) and [René Ranftl](https://scholar.google.com/citations?user=cwKg158AAAAJ&hl=en) at Intel ISL, [Song Bai](http://songbai.site/) at ByteDance AI Lab, [Jianping Shi](https://shijianping.me/) and [Zhanghui Kuang](http://jeffreykuang.github.io/) at [SenseTime Research](https://www.sensetime.com/en/).
 I received a B.Eng. degree in 2016 in Software Engineering from [Wuhan University](http://www.whu.edu.cn/), China. 
 My current focus is on building a comprehensive visual system with an unified perception.
-
-#### We are currently looking for interns at TVG. Feel free to drop me emails if you're interested.
+ 
+<b><span style="color:red">We are currently looking for interns at TVG. Feel free to drop me emails if you're interested.</span></b>
 
 
 ## Recent News
