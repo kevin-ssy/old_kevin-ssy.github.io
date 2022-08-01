@@ -16,6 +16,8 @@ I received my M.Phil. degree from [the University of Sydney](https://sydney.edu.
 I received a B.Eng. degree in 2016 in Software Engineering from [Wuhan University](http://www.whu.edu.cn/), China. 
 My current focus is on building a comprehensive visual system with an unified perception.
 
+#### We are currently looking for interns at TVG. Feel free to drop me emails if you're interested.
+
 
 ## Recent News
 
