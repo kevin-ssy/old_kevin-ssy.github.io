@@ -21,6 +21,8 @@ My current focus is on building a comprehensive visual system with an unified pe
 
 ## Recent News
 
+Internship started at Google Research. (11th July 2022)
+
 Three papers are accepted to CVPR 2022! (13rd March 2022)
 
 Two papers are accepted to ICCV 2021! (22nd July 2021)
