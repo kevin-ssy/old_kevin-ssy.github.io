@@ -27,9 +27,9 @@ Three papers are accepted to CVPR 2022! (13rd March 2022)
 
 Two papers are accepted to ICCV 2021! (22nd July 2021)
 
-New journey begins in Oxford. (19th Sep 2019)
+<!--New journey begins in Oxford. (19th Sep 2019)
 
-<!--The code for [FishNet](http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction.pdf) has been released! (29th Nov. 2018)
+The code for [FishNet](http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction.pdf) has been released! (29th Nov. 2018)
 
 I have been awarded with the **NIPS Travel Award**. Many thanks to NIPS foundation!!! (16th Oct. 2018)
 
